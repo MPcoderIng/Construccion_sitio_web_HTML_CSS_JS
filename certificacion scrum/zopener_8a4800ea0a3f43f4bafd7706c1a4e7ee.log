@@ -1,0 +1,46 @@
+[5520:5072:2021-5-26 21:17:3.65] Main Start
+[5520:5072:2021-5-26 21:17:3.66] Command line:"C:\Users\MANUELHUMBERTOPONCEA\Desktop\Tecnológico\Semestre 6\A3 INGENIERÍA DE SOFTWARE\PARCIAL 3\certificacion scrum\Zoom_cm_fo42anktZ9vvrZo4_mE2PLTF6J2jdiX1ovS9Vo9rnAj0VIxTBv-vrs@e0-iU0Iv4a+FgEw3_kcaba480e3da48af8_.exe"  Instance:0x8A0000 Show State:1
+[5520:5072:2021-5-26 21:17:3.93] C:\
+[5520:4224:2021-5-26 21:17:3.98] [process_requst] start, url:https://us02web.zoom.us/conf/launch
+[5520:4224:2021-5-26 21:17:3.605] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[5520:4224:2021-5-26 21:17:3.605] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[5520:4224:2021-5-26 21:17:3.607] [log_response_content] Content length (1048576 as unknown):1408 , Total read: 1408 , Error No: 0 , Status code: 200
+[5520:4224:2021-5-26 21:17:3.607] [log_response_content] header:
+[5520:4224:2021-5-26 21:17:3.607] HTTP/1.1 200 
+Date: Thu, 27 May 2021 02:17:03 GMT
+Content-Type: text/plain;charset=utf-8
+Content-Length: 1408
+Connection: keep-alive
+x-zm-trackingid: WEB_5620dea3a1c01af8b509533daf49a6d0
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests; default-src https://*.zoom.us https://zoom.us blob: 'self'; img-src https: about: blob: data: 'self'; style-src https: safari-extension: chrome-extension: 'unsafe-inline' data: 'self'; font-src https: safari-extension: chrome-extension: blob: data: 'self'; connect-src * about: blob: data: 'self'; media-src * rtmp: blob: data: 'self'; frame-src https: ms-appx-web: zoommtg: zoomus: wvjbscheme: data: 'self'; object-src 'none'; base-uri 'none';
+X-FRAME-OPTIONS: SAMEORIGIN
+Set-Cookie: zm_aid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: zm_haid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: web_zak=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: cred=1691A91EA3EDC4A73F447D77E1A637E8; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_page_auth=us02_c_LUPVTMpnQuq4h5tKaU2EOg; Domain=.zoom.us; Path=/; Secure; HttpOnly
+p3p: CP="NOI ADM DEV PSAi COM NAV OUR OTR STP IND DEM"
+Set-Cookie: _zm_ssid=us02_c_tQwgUOubR0inqSEXVHm-fg; Domain=.zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_ctaid=idIE__mDTU6fHCbsT2Hupg.1622081823647.4093279be3e4af85f156641895a85516; Domain=.zoom.us; Expires=Thu, 27-May-2021 04:17:03 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_chtaid=421; Domain=.zoom.us; Expires=Thu, 27-May-2021 04:17:03 GMT; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+
+
+[5520:4224:2021-5-26 21:17:3.607] [process_requst] End for url:https://us02web.zoom.us/conf/launch, return code:200, Error:0, Response content size:1408
+[5520:5072:2021-5-26 21:17:3.659] [imp_has_zoom_under_path] found zoom binaries under: 
+[5520:5072:2021-5-26 21:17:3.659] C:\Users\MANUELHUMBERTOPONCEA\AppData\Roaming\Zoom\bin\Zoom.exe
+[5520:5072:2021-5-26 21:17:3.659] [client_has_installed_app] found path:
+[5520:5072:2021-5-26 21:17:3.659] C:\Users\MANUELHUMBERTOPONCEA\AppData\Roaming\Zoom\bin\Zoom.exe
+[5520:5072:2021-5-26 21:17:3.659] [imp_has_zoom_under_path] found zoom binaries under: 
+[5520:5072:2021-5-26 21:17:3.659] C:\Users\MANUELHUMBERTOPONCEA\AppData\Roaming\Zoom\bin\Zoom.exe
+[5520:5072:2021-5-26 21:17:3.659] [client_has_installed_app] found path:
+[5520:5072:2021-5-26 21:17:3.659] C:\Users\MANUELHUMBERTOPONCEA\AppData\Roaming\Zoom\bin\Zoom.exe
+[5520:5072:2021-5-26 21:17:3.659] C:\Users\MANUELHUMBERTOPONCEA\AppData\Roaming\Zoom\bin\Zoom.exe
+[5520:5072:2021-5-26 21:17:3.698] client_launch_app: 
+[5520:5072:2021-5-26 21:17:3.698] C:\Users\MANUELHUMBERTOPONCEA\AppData\Roaming\Zoom\bin\Zoom.exe
+[5520:5072:2021-5-26 21:17:3.698] "--url=zoommtg://win.launch?h.domain=us02web.zoom.us&h.path=join&confid=dXNzPXJ4QzRXV2xlQ2x2QWREc3U0MEl3Q0IzUHJCY2FyQ1pUSENQRWllT21kMmJGV283akRSYkdZNy1keXZ6MXF5NTVSc3I5XzdrYy1neUdwalhYQ2RwMjQzczBQSDhTWXFjWWZLZy5ocV9VX2tlblRrbko3Uk5UJnRpZD0zNGU1YzMxZjRkZTg0NDljYjA5M2JiOTU1NTI2NTQ5Yw%3D%3D&mcv=0.92.11227.0929&stype=0&zc=0&browser=chrome&action=join&confno=81374421867&pwd=dnBUSys5UWI1ZnhMQzg0NHNnYndjdz09"
+[5520:5072:2021-5-26 21:17:3.787] [client_launch_app] Zoom app process created, result:42
+[5520:5072:2021-5-26 21:17:3.822] Main End
